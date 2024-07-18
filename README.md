@@ -2,9 +2,9 @@
 A python application that lets you chat with Llama and also help you implement RAG using Wikipedia page
 
 ## Versions
-* The code in presented in 2 versions for ease
-* Jupyter Notebook
-* Python application
+* The code in presented in 2 versions
+* Jupyter Notebook - Explaining Step-by-Step process of Llama3+RAG's Implementation
+* Python app - Running Local LLM+RAG application on your PC
 
 ## Packages
 * ollama - Version : 0.2.1
