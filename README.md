@@ -1,6 +1,11 @@
 # Wiki_Llama3_RAG
 A python application that lets you chat with Llama and also help you implement RAG using Wikipedia page
 
+##Versions:
+* The code in presented in 2 versions for ease
+* Jupyter Notebook
+* Python application
+
 ## Packages
 * ollama - Version : 0.2.1
 * sentence-transformers - Version : 3.0.1
