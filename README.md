@@ -1,7 +1,7 @@
 # Wiki_Llama3_RAG
 A python application that lets you chat with Llama and also help you implement RAG using Wikipedia page
 
-## Versions:
+## Versions
 * The code in presented in 2 versions for ease
 * Jupyter Notebook
 * Python application
