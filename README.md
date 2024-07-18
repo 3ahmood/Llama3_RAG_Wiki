@@ -3,7 +3,7 @@ A python application that lets you chat with Llama and also help you implement R
 
 ## Versions
 * The code in presented in 2 versions
-* Jupyter Notebook - Explaining Step-by-Step process of Llama3+RAG's Implementation
+* Jupyter Notebook - Explaining Step-by-Step Implementation of Llama3+RAG's Architecture
 * Python app - Running Local LLM+RAG application on your PC
 
 ## Packages
