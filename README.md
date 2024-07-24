@@ -25,5 +25,6 @@ A python application that lets you chat with Llama and also help you implement R
 
 ## How to access the application?
 * install the required packages
+* Pull Llama 3 and Llama 3.1 models using Ollama
 * download wiki_LLM.py app
 * Run on your PC's command prompt using 'python Llama3_RAG_Wiki.py'
