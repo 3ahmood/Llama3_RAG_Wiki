@@ -1,5 +1,5 @@
 # Llama3_RAG_Wiki
-A python application that lets you chat with Llama (LLM) and help you implement RAG using Wikipedia pages
+A python application that lets you chat with Llama (LLM) and helps you implement RAG using Wikipedia pages
 
 # LinkedIn Article Explaining this application
 * https://www.linkedin.com/pulse/explain-llm-rag-like-im-5-mahmood-mohammed-dfrfc/?trackingId=33mqDzrrRPe4fAekiIwNSg%3D%3D
